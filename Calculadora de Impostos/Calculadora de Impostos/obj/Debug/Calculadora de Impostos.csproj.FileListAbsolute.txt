@@ -1,0 +1,7 @@
+C:\Users\Avell\source\repos\Calculadora de Impostos\Calculadora de Impostos\bin\Debug\Calculadora de Impostos.exe.config
+C:\Users\Avell\source\repos\Calculadora de Impostos\Calculadora de Impostos\bin\Debug\Calculadora de Impostos.exe
+C:\Users\Avell\source\repos\Calculadora de Impostos\Calculadora de Impostos\bin\Debug\Calculadora de Impostos.pdb
+C:\Users\Avell\source\repos\Calculadora de Impostos\Calculadora de Impostos\obj\Debug\Calculadora de Impostos.csprojAssemblyReference.cache
+C:\Users\Avell\source\repos\Calculadora de Impostos\Calculadora de Impostos\obj\Debug\Calculadora de Impostos.csproj.CoreCompileInputs.cache
+C:\Users\Avell\source\repos\Calculadora de Impostos\Calculadora de Impostos\obj\Debug\Calculadora de Impostos.exe
+C:\Users\Avell\source\repos\Calculadora de Impostos\Calculadora de Impostos\obj\Debug\Calculadora de Impostos.pdb
